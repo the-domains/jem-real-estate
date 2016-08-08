@@ -1,4 +1,3 @@
-layout_spectrum: 0.85779541102238
 typography_spectrum: 0.16596127720549703
 color:
   brandStrength: 0.3972536225337535
@@ -11,5 +10,7 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
+layout_spectrum: 0.85779541102238
 name: Hospitality Consulting
 title: Dedicated to operational excellence
+description: 'Passion for service '
